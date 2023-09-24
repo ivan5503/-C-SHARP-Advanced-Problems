@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\IVO\\source\\repos\\C-Sharp Advanced Exam  - 09 August 2023\\VendingSystem\\VendingSystem.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\IVO\\source\\repos\\C-Sharp Advanced Exam  - 09 August 2023\\VendingSystem\\VendingSystem.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\IVO\\source\\repos\\C-Sharp Advanced Exam  - 09 August 2023\\VendingSystem\\VendingSystem.csproj",
+        "projectName": "VendingSystem",
+        "projectPath": "C:\\Users\\IVO\\source\\repos\\C-Sharp Advanced Exam  - 09 August 2023\\VendingSystem\\VendingSystem.csproj",
+        "packagesPath": "C:\\Users\\IVO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\IVO\\source\\repos\\C-Sharp Advanced Exam  - 09 August 2023\\VendingSystem\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\IVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
